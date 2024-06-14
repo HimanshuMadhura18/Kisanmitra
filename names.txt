@@ -1,0 +1,3 @@
+Hey Guys!
+I am Himanshu Madhura.
+I am practising some basics git commands.
